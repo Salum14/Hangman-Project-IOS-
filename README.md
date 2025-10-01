@@ -1,1 +1,2 @@
 # Hangman-Project-IOS-
+A hangman project that replicates the classic word-guessing game where the player tries to uncover a hidden word by guessing one letter at a time. The player has a limited number of attempts, and every incorrect guess will reduce the remaining attempts. The game ends when the player either successfully guesses the word or runs out of attempts. It's designed using swift programming, object-oriented design, and IOS UI development
